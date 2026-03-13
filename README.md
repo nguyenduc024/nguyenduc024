@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duc Nguyen</h1>
-<h3 align="center">Aspiring Data Analyst | Business Analysis Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Business Analyst </h3>
 
 ---
 

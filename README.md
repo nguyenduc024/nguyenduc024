@@ -11,7 +11,8 @@ My goal is to transform raw data into **meaningful insights that support busines
 
 I enjoy working with data to uncover patterns, build dashboards, and generate actionable insights.
 
-Language: Vietnamese (Native), English
+***Language:*** Vietnamese (Native), English
+
 ---
 
 ## Skills & Tools

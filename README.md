@@ -20,8 +20,8 @@ I enjoy working with data to uncover patterns, build dashboards, and generate ac
 - **Data Analysis:** SQL, Python, R Programming
 - **Data Visualization:** Power BI, Tableau
 - **Data Processing:** Excel, Google Sheets
-- **Business Analysis:** BRD, SRS, BPMN
-- **Other Skills:** Microsoft Office, Draw.io, Figma, Notion, AI Prompting
+- **Business Analysis:** BRD, SRS, BPMN, Agile/Scrum framework
+- **Other Skills:** Microsoft Office, Draw.io, BPMN, Figma, Notion, AI Prompting
 
 ---
 

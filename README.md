@@ -55,12 +55,13 @@ My goal is to bridge the gap between business needs and technical execution, del
 
 ---
 
-## ☁️ Currently Learning
+## 🐾 Relaxing Zone
 
-- 📓 Advanced Product Strategy & Roadmapping
-- 🦾 Integrating AI into SaaS Products
-- 🕸️ Cloud Architecture Basics for PMs
-- 📐 System Design & Technical Architecture
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/x1ah/1470a67fad1b6297a35a1828505ebb30/raw/7a909f5ecebcc454b0e37a2a0c42435ce8218a76/cat.gif" width="100">
+  <br>
+  <p><i>Shh... the cat is inspecting the codebase.</i></p>
+</div>
 
 ---
 

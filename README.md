@@ -6,6 +6,8 @@
       > ^ <
 ```
   
+  <img src="thumbnail.svg" alt="Portfolio Thumbnail" width="100%">
+
   <h1>Hi 👋, I'm Duc Nguyen</h1>
   <h3>Product Owner | Product Manager</h3>
   <p><i>"Translating business vision into valuable products."</i></p>
@@ -22,10 +24,10 @@
 I am passionate about **Product Management, Business Analysis, and User-Centric Design**. 
 My goal is to bridge the gap between business needs and technical execution, delivering the highest value to users.
 
-- ⚙️ **Core Focus:** Managing product lifecycles, gathering requirements (BRD/SRS), writing User Stories, and prioritizing backlogs.
-- 🤝 **Collaboration:** Strong advocate for Agile/Scrum frameworks to foster cross-functional team alignment.
-- 🖤 **Data-Driven:** Leveraging data analysis to iterate on product success.
-- 🏁 **Language:** Vietnamese (Native), English
+- **Core Focus:** Managing product lifecycles, gathering requirements (BRD/SRS), writing User Stories, and prioritizing backlogs.
+- **Collaboration:** Strong advocate for Agile/Scrum frameworks to foster cross-functional team alignment.
+- **Data-Driven:** Leveraging data analysis to iterate on product success.
+- **Language:** Vietnamese (Native), English
 
 ---
 
@@ -64,8 +66,8 @@ My goal is to bridge the gap between business needs and technical execution, del
 
 ## ✉️ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-link)
-[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenduc024/?isSelfProfile=true)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nguyenduc.personal@gmail.com)
 
 <div align="center">
   <br>

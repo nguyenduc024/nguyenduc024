@@ -1,39 +1,73 @@
-<h1 align="center">Hi 👋, I'm Duc Nguyen</h1>
-<h3 align="center">Product Owner | Business Analyst </h3>
+<div align="center">
+  
+```text
+      /\_/\
+     ( o.o )
+      > ^ <
+```
+  
+  <h1>Hi 👋, I'm Duc Nguyen</h1>
+  <h3>Product Owner | Product Manager</h3>
+  <p><i>"Translating business vision into valuable products."</i></p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=nguyenduc024&color=111111&style=pixel" alt="Profile views" />
+  </p>
+</div>
+
+<br>
+
+## 👾 About Me
+
+I am passionate about **Product Management, Business Analysis, and User-Centric Design**. 
+My goal is to bridge the gap between business needs and technical execution, delivering the highest value to users.
+
+- ⚙️ **Core Focus:** Managing product lifecycles, gathering requirements (BRD/SRS), writing User Stories, and prioritizing backlogs.
+- 🤝 **Collaboration:** Strong advocate for Agile/Scrum frameworks to foster cross-functional team alignment.
+- 🖤 **Data-Driven:** Leveraging data analysis to iterate on product success.
+- 🏁 **Language:** Vietnamese (Native), English
 
 ---
 
-## About Me
+## 🧰 Skills & Tools
 
-I am interested in **Data Analysis, Business Analysis, and Data-driven decision making**.
+**Product Management & Business Analysis:**
+<br>
+![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-1A1A1A?style=for-the-badge&logo=scrum&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-333333?style=for-the-badge&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-4D4D4D?style=for-the-badge&logo=Confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
 
-My goal is to transform raw data into **meaningful insights that support business decisions**.
+**UX/UI & Prototyping:**
+<br>
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-333333?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-I enjoy working with data to uncover patterns, build dashboards, and generate actionable insights.
-
-***Language:*** Vietnamese (Native), English
+**Data & Analytics:**
+<br>
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-1A1A1A?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=Tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 
 ---
 
-## Skills & Tools
+## ☁️ Currently Learning
 
-- **Data Analysis:** SQL, Python, R Programming
-- **Data Visualization:** Power BI, Tableau
-- **Data Processing:** Excel, Google Sheets
-- **Business Analysis:** BRD, SRS, BPMN, Agile/Scrum framework
-- **Other Skills:** Microsoft Office, Draw.io, BPMN, Figma, Notion, AI Prompting
+- 📓 Advanced Product Strategy & Roadmapping
+- 🦾 Integrating AI into SaaS Products
+- 🕸️ Cloud Architecture Basics for PMs
+- 📐 System Design & Technical Architecture
 
 ---
 
-## Currently Learning
+## ✉️ Let's Connect
 
-- Advanced SQL
-- Data Visualization
-- Business Intelligence
-- AI/ML
-- AWS, Google CLoud
-- ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-link)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your-email@example.com)
 
-
-
-
+<div align="center">
+  <br>
+  <p><i>Stay curious.</i></p>
+</div>

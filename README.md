@@ -11,10 +11,6 @@
   <h1>Hi 👋, I'm Duc Nguyen</h1>
   <h3>Product Owner | Product Manager</h3>
   <p><i>"Translating business vision into valuable products."</i></p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=nguyenduc024&color=111111&style=pixel" alt="Profile views" />
-  </p>
 </div>
 
 <br>

@@ -57,11 +57,22 @@ My goal is to bridge the gap between business needs and technical execution, del
 
 ## 🐾 Relaxing Zone
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/x1ah/1470a67fad1b6297a35a1828505ebb30/raw/7a909f5ecebcc454b0e37a2a0c42435ce8218a76/cat.gif" width="100">
-  <br>
-  <p><i>Shh... the cat is inspecting the codebase.</i></p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <img src="ascii-img.svg" alt="ASCII Art" width="100%" />
+    </td>
+    <td width="40%">
+      <h3>Relaxing Zone</h3>
+      <p>Enjoy the peaceful pixel garden!</p>
+      <ul>
+        <li>🌱 Trees</li>
+        <li>🏡 Little House</li>
+        <li>🐈 Cat Wandering</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -62,7 +62,7 @@ My goal is to bridge the gap between business needs and technical execution, del
       <h3>My Little Corner</h3>
       <p>A tiny place between deadlines and deployments.</p>
       <ul>
-        <li>🌱 Ideas growing/li>
+        <li>🌱 Ideas growing</li>
         <li>🏡 Things building</li>
         <li>🐈 Letting my little cat roam</li>
       </ul>

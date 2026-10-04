@@ -59,12 +59,12 @@ My goal is to bridge the gap between business needs and technical execution, del
       <img src="ascii-img.svg" alt="ASCII Art" width="100%" />
     </td>
     <td width="40%">
-      <h3>Relaxing Zone</h3>
-      <p>Enjoy the peaceful pixel garden!</p>
+      <h3>My Little Corner</h3>
+      <p>A tiny place between deadlines and deployments.</p>
       <ul>
-        <li>🌱 Trees</li>
-        <li>🏡 Little House</li>
-        <li>🐈 Cat Wandering</li>
+        <li>🌱 Ideas growing/li>
+        <li>🏡 Things building</li>
+        <li>🐈 Letting my little cat roam</li>
       </ul>
     </td>
   </tr>
